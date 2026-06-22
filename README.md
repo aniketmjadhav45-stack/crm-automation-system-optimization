@@ -203,27 +203,6 @@ Improved marketing visibility by optimizing:
 
 ✅ Scalable automation infrastructure
 
----
-
-## Screenshots
-
-### HubSpot Workflow Automation
-
-![HubSpot Workflow](screenshots/hubspot-workflow-overview.png)
-
-### Zapier Dashboard
-
-![Zapier Dashboard](screenshots/zapier-dashboard-overview.png)
-
-### Jobber Integration
-
-![Jobber Integration](screenshots/jobber-integration.png)
-
-### WhatConverts Dashboard
-
-![WhatConverts Dashboard](screenshots/whatconverts-dashboard.png)
-
----
 
 ## Repository Structure
 
